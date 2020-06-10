@@ -68,6 +68,10 @@ if __name__ == "__main__":
     print(h)
     new_point = encode((a, b, p), 'aaa')
     print(new_point)
+
+
+
+
 # y^2=x^3+2x+7(mod 179)
 
 # print(num_to_point(-7, 10, 127, 'a'))
