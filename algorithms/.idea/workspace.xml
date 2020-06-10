@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30b98e46-1c40-4100-acc3-e143a66f2b3d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zw1CYomOTeiCWbxcBnekF1KuMp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.hate_everyone">
+    <configuration name="LENSTRA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="thesis-code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LENSTRA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LENSTRA_2.0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="thesis-code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LENSTRA_2.0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hate_everyone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="thesis-code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../analytics" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../analytics/hate_everyone.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rho-pollard_fact" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="thesis-code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rho-pollard_fact.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rho_pollard_fact" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="thesis-code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../course work(sort of)/course_work_code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../course work(sort of)/course_work_code/rho_pollard_fact.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hate_everyone" />
+        <item itemvalue="Python.LENSTRA" />
+        <item itemvalue="Python.rho-pollard_fact" />
+        <item itemvalue="Python.rho_pollard_fact" />
+        <item itemvalue="Python.LENSTRA_2.0" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30b98e46-1c40-4100-acc3-e143a66f2b3d" name="Default Changelist" comment="" />
+      <created>1585735215975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585735215975</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589789422339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1589789422339" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1589727958883">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1589727958883" />
+    <state x="354" y="137" key="FileChooserDialogImpl" timestamp="1589789730295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="354" y="137" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589789730295" />
+    <state width="813" height="255" key="GridCell.Tab.0.bottom" timestamp="1589901231848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="813" height="255" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589901231848" />
+    <state width="813" height="255" key="GridCell.Tab.0.center" timestamp="1589901231848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="813" height="255" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589901231848" />
+    <state width="813" height="255" key="GridCell.Tab.0.left" timestamp="1589901231847">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="813" height="255" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589901231847" />
+    <state width="813" height="255" key="GridCell.Tab.0.right" timestamp="1589901231848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="813" height="255" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589901231848" />
+    <state width="813" height="255" key="GridCell.Tab.1.bottom" timestamp="1589901231848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="813" height="255" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589901231848" />
+    <state width="813" height="255" key="GridCell.Tab.1.center" timestamp="1589901231848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="813" height="255" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589901231848" />
+    <state width="813" height="255" key="GridCell.Tab.1.left" timestamp="1589901231848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="813" height="255" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589901231848" />
+    <state width="813" height="255" key="GridCell.Tab.1.right" timestamp="1589901231848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="813" height="255" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589901231848" />
+    <state x="85" y="25" key="SettingsEditor" timestamp="1589789790869">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585735455965" />
+    <state x="85" y="25" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589789790869" />
+    <state x="419" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1589883937547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1585735375173" />
+    <state x="419" y="204" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589883937547" />
+    <state x="190" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1589790645423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="190" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589790645423" />
+  </component>
+</project>
