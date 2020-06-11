@@ -54,18 +54,21 @@ def decode(point: Point, k: int) -> str:
 if __name__ == "__main__":
     # p = (2**128-3)/76439
     # print(p)
-    p = int('DB7C2ABF62E35E668076BEAD208B', 16)
-    a = int('DB7C2ABF62E35E668076BEAD2088', 16)
-    b = int('659EF8BA043916EEDE8911702B22', 16)
-    G = Point(int('09487239995A5EE76B55F9C2F098', 16),
-              int('A89CE5AF8724C0A23E0E0FF77500', 16), a, b)
-    n = int('DB7C2ABF62E35E7628DFAC6561C5', 16)
-    h = int('01', 16)
-    a = -7
-    b = 10
-    p = 487
+    # p = int('DB7C2ABF62E35E668076BEAD208B', 16)
+    # a = int('DB7C2ABF62E35E668076BEAD2088', 16)
+    # b = int('659EF8BA043916EEDE8911702B22', 16)
+    # G = Point(int('09487239995A5EE76B55F9C2F098', 16),
+    #           int('A89CE5AF8724C0A23E0E0FF77500', 16), a, b)
+    # n = int('DB7C2ABF62E35E7628DFAC6561C5', 16)
+    # h = int('01', 16)
 
-    print(h)
+    a = 2
+    b = 7
+    p = 8209
+    G = Point(4, 1313, a, b)
+
+
+
     new_point = encode((a, b, p), 'aaa')
     print(new_point)
 
