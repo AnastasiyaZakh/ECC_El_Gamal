@@ -134,12 +134,6 @@ def avg_time_lenstra(n):
             counter += 1
     return avg_duration / num
 
-# def avg_time_rho(n):
-#     num = 5
-#     avg_duration = 0
-#     for i in range(num):
-#         avg_duration += pollards_rho(n)[1]
-#     return avg_duration / num
 
 for value in values:
     print(f'Розмір задачі = {value}:')
@@ -149,23 +143,8 @@ for value in values:
     times['lenstra'][value] = (avg_time_lenstra(value))
 
 
-    # print('\tРо-алгоритм Полларда:', end=' ')
-    # times['rho-pollard'][value] = avg_time_rho(value)
-    # print('\tМаліцький Tam:', end=' ')
-    # _, iters['Маліцький Tam'][size], times['Маліцький Tam'][size] = \
-    #     src.malitskyi_tam(
-    #         x0_initial=np.ones(size),
-    #         x1_initial=np.ones(size),
-    #         lambda_=0.4,
-    #         A=lambda x: a.dot(x),
-    #         ProjectionOntoC=lambda x: x,
-    #         tolerance=1e-3,
-    #         max_iterations=1e4,
-    #         debug=True)
     print()
 
-# src.save_values_to_table(times, values, fn='1/time', tp='time')
-# src.save_values_to_table(iters, values, fn='1/iter', tp='iter')
 
 save_values_to_image(times,
                      values,
